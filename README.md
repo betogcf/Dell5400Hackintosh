@@ -2,9 +2,11 @@
 
 Based on OpenCore version 0.9.5
 
-**WARNING:** This repository uses macOS 13 Ventura
+**WARNING:** This repository uses macOS 13 Ventura; Generate your own SMBIOS using GenSMBIOS; Dortania's Install Guide teaches both the basics and advanced techniques, so make use of it.
 
 ## About my Mac
+
+
 
 **Specification:**
 - CPU: Intel i5-8265U CPU @ 1.60GHz (Whiskey Lake)
@@ -55,7 +57,6 @@ I realized that these issues were related to differences in processors between t
 - I recreated the CPUFriendDataProvider.kext based on the CPUFriendFriend script, using parameters from a MacbookPro (this can be adjusted as needed, just follow the script's guide and replace the kext).
 
 **Post-installation:**
-- Generate your own SMBIOS using GenSMBIOS.
 - Use Intel Power Gadget to check how your processor is performing. If you see high temperatures and high power consumption, I recommend redoing the DSDTs using the SSDTimer script in Windows and generating a new CPUFriendDataProvider.kext.
 - Use IORegistryExplorer to verify that the power parameters are working.
 
