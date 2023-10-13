@@ -6,7 +6,7 @@ Based on OpenCore version 0.9.5
 
 ## About my Mac
 
-(https://github.com/betogcf/Dell5400Hackintosh/blob/main/System.png)
+![](https://github.com/betogcf/Dell5400Hackintosh/blob/main/System.png)
 
 **Specification:**
 - CPU: Intel i5-8265U CPU @ 1.60GHz (Whiskey Lake)
