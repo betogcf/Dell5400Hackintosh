@@ -63,4 +63,6 @@ I realized that these issues were related to differences in processors between t
 When I have some spare time, I'll try to create an audio layout for this model. Until then, the chosen layout serves us well.
 
 ## Final Words
-The laptop is working perfectly, with slightly better performance than it would have with Windows (synthetic tests corroborated this claim), and the battery performance is similar to other operating systems. I've been using it as my primary laptop for a few weeks now, and there hasn't been any performance drop since. It's completely stable. I don't plan to upgrade to Sonoma at the moment because I don't see any benefit in doing so.
+The laptop is working perfectly, with slightly better performance than it would have with Windows (synthetic tests corroborated this claim), and the battery performance is similar to other operating systems. 
+I've been using it as my primary laptop for a few weeks now, and there hasn't been any performance drop since. 
+It's completely stable. I don't plan to upgrade to Sonoma at the moment because I don't see any benefit in doing so.
