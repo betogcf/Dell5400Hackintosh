@@ -40,7 +40,7 @@ Based on OpenCore version 0.9.5
 - MicroSD card reader
 - TouchPad buttons
 - TrackStick
-- Multi-Jack (both cold- and hotplug)
+- Multi-Jack (both cold and hotplug)
 
 ## Project Info
 I recently acquired a used Dell Latitude 5400, and at the first opportunity, I wanted to experiment with macOS. I used many of the existing projects on GitHub to initially see how it would behave and address stability issues.
