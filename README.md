@@ -23,7 +23,7 @@ Based on OpenCore version 0.9.5
 - Wifi not connected automatically after a reboot
 - In rare cases, the audio stops working or begins to sound with a static noise (This is a kext problem because I realized there's no proper layout id for Dell 5400, so the 69 was a better choice for now)
 
-**Everything else is Working properly:**
+## Working
 - Bluetooth
 - WLAN
 - Intel WLAN
