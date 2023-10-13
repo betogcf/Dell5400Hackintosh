@@ -6,15 +6,15 @@ WARNING: This repository uses macOS 13 Ventura
 About my Mac
 
 Specification
-CPU	Intel i5-8265U CPU @ 1.60GHz (Whiskey Lake)
-RAM	16GB DDR4 2400MHz
-IGPU	Intel UHD 620
-SSD	Gigabyte NVMe
-ETH	Intel I217-LM
-WLAN+BT	Intel 9560NGW
-WWAN	Not present
-Audio	Realtek ALC236
-Ports	USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC
+CPU	Intel i5-8265U CPU @ 1.60GHz (Whiskey Lake),
+RAM	16GB DDR4 2400MHz,
+IGPU	Intel UHD 620,
+SSD	Gigabyte NVMe,
+ETH	Intel I217-LM,
+WLAN+BT	Intel 9560NGW,
+WWAN	Not present,
+Audio	Realtek ALC236,
+Ports	USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC.
 
 Issues:
 HDMI coldplug (hotplug is OK)
