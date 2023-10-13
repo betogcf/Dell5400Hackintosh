@@ -59,7 +59,8 @@ I realized that these issues were related to differences in processors between t
 **Post-installation:**
 - Use Intel Power Gadget to check how your processor is performing. If you see high temperatures and high power consumption, I recommend redoing the DSDTs using the SSDTimer script in Windows and generating a new CPUFriendDataProvider.kext.
 - Use IORegistryExplorer to verify that the power parameters are working.
-
+- Most kexts depend on Lilu so it must be loaded first. Then I usually place the essential kexts like VirtualSMC and WhateverGreen immediately after it... The CPUFriendDataProvider.kext, for exemple, MUST come after the CPUFriend.kext in the kext order, make sure of that. The kext order is important.
+  
 **Work to be done:**
 When I have some spare time, I'll try to create an audio layout for this model. Until then, the chosen layout serves us well.
 
