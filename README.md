@@ -62,7 +62,7 @@ I realized that these issues were related to differences in processors between t
 - Most kexts depend on Lilu so it must be loaded first. Then I usually place the essential kexts like VirtualSMC and WhateverGreen immediately after it... The CPUFriendDataProvider.kext, for exemple, MUST come after the CPUFriend.kext in the kext order, make sure of that. The kext order is important.
   
 **Work to be done:**
-When I have some spare time, I'll try to create an audio layout for this model. Until then, the chosen layout serves us well.
+When I have some time, I'll try to create an audio layout for this model. Until then, the chosen layout serves us well.
 
 ## Final Words
 The laptop is working perfectly, with slightly better performance than it would have with Windows (synthetic tests corroborated this claim), and the battery performance is similar to other operating systems. 
