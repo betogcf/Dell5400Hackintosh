@@ -2,7 +2,7 @@
 
 Based on OpenCore version 0.9.5
 
-**WARNING:** This repository uses macOS 13 Ventura; Generate your own SMBIOS using GenSMBIOS; Dortania's Install Guide teaches both the basics and advanced techniques, so make use of it.
+**WARNING:** This repository is only for macOS 13 Ventura; Generate your own SMBIOS using GenSMBIOS; Dortania's Install Guide teaches both the basics and advanced techniques, so make use of it.
 
 ## About my Mac
 
